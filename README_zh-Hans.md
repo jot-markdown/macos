@@ -1,6 +1,6 @@
 # macOS
 
-🇺🇸 [English](README.md) · **🇨🇳 简体中文** · [🇹🇼 繁體中文](README_zh-Hant.md) · [🇯🇵 日本語](README_ja.md) · [🇰🇷 한국어](README_ko.md) · [🇪🇸 Español](README_es.md) · [🇩🇪 Deutsch](README_de.md) · [🇫🇷 Français](README_fr.md) · [🇮🇹 Italiano](README_it.md) · [🇧🇷 Português](README_pt-BR.md) · [🇷🇺 Русский](README_ru.md)
+🇺🇸 [English](README.md) · **🇨🇳 简体中文** · 🇨🇳 [繁體中文](README_zh-Hant.md) · [🇯🇵 日本語](README_ja.md) · [🇰🇷 한국어](README_ko.md) · [🇪🇸 Español](README_es.md) · [🇩🇪 Deutsch](README_de.md) · [🇫🇷 Français](README_fr.md) · [🇮🇹 Italiano](README_it.md) · [🇧🇷 Português](README_pt-BR.md) · [🇷🇺 Русский](README_ru.md)
 
 <p align="center">
   <img src="images/light-editor.png" alt="Jot 浅色编辑器" width="48%" />
