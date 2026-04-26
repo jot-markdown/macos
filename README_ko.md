@@ -1,5 +1,7 @@
 # macOS
 
+🇺🇸 [English](README.md) · [🇨🇳 简体中文](README_zh-Hans.md) · [🇹🇼 繁體中文](README_zh-Hant.md) · [🇯🇵 日本語](README_ja.md) · **🇰🇷 한국어** · [🇪🇸 Español](README_es.md) · [🇩🇪 Deutsch](README_de.md) · [🇫🇷 Français](README_fr.md) · [🇮🇹 Italiano](README_it.md) · [🇧🇷 Português](README_pt-BR.md) · [🇷🇺 Русский](README_ru.md)
+
 <p align="center">
   <img src="images/light-editor.png" alt="Jot 라이트 에디터" width="48%" />
   <img src="images/dark-editor.png" alt="Jot 다크 에디터" width="48%" />

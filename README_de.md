@@ -1,5 +1,7 @@
 # macOS
 
+🇺🇸 [English](README.md) · [🇨🇳 简体中文](README_zh-Hans.md) · [🇹🇼 繁體中文](README_zh-Hant.md) · [🇯🇵 日本語](README_ja.md) · [🇰🇷 한국어](README_ko.md) · [🇪🇸 Español](README_es.md) · **🇩🇪 Deutsch** · [🇫🇷 Français](README_fr.md) · [🇮🇹 Italiano](README_it.md) · [🇧🇷 Português](README_pt-BR.md) · [🇷🇺 Русский](README_ru.md)
+
 <p align="center">
   <img src="images/light-editor.png" alt="Jot Heller Editor" width="48%" />
   <img src="images/dark-editor.png" alt="Jot Dunkler Editor" width="48%" />
